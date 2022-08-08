@@ -1,0 +1,3 @@
+remove privatekey and contract address from claimAcqrNFT move to .env
+
+If the nonce to low issue returns it is the HDwallet provider that from truffle that is messing
